@@ -1,0 +1,1 @@
+ C:\\Users\\Acer\\Desktop\\Leo\\Work\\UFSCar\\7_semestre\\Mobile\\PCS_flutter\\devmovel-pc09\\.dart_tool\\flutter_build\\a57ad86709434c3d9e3401ebfbe94fa9\\native_assets.yaml: 

@@ -1,0 +1,1 @@
+ /Users/vitorkasai/git/UFSCar/DevMovel/devmovel-pc09/.dart_tool/flutter_build/c1d5b6e602a14ed5cc866c2cb00383e1/native_assets.yaml: 
